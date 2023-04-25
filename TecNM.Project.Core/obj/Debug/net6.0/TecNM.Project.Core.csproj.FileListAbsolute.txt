@@ -1,0 +1,12 @@
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\bin\Debug\net6.0\TecNM.Project.Core.deps.json
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\bin\Debug\net6.0\TecNM.Project.Core.dll
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\bin\Debug\net6.0\TecNM.Project.Core.pdb
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.csproj.AssemblyReference.cache
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.AssemblyInfoInputs.cache
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.AssemblyInfo.cs
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.csproj.CoreCompileInputs.cache
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.dll
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\refint\TecNM.Project.Core.dll
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\TecNM.Project.Core.pdb
+C:\Users\Fernando Adolfo\Documents\Rider Projects\TecNM.Project\TecNM.Project.Core\obj\Debug\net6.0\ref\TecNM.Project.Core.dll

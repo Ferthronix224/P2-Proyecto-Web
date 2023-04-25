@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecNM.Project.Api", "TecNM.Project.Api\TecNM.Project.Api.csproj", "{16358D0D-F18F-45FB-BD64-A5AF1E2AFAC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TecNM.Project.Core", "TecNM.Project.Core\TecNM.Project.Core.csproj", "{33325C11-E209-47DB-98FA-16F6390A656B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16358D0D-F18F-45FB-BD64-A5AF1E2AFAC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16358D0D-F18F-45FB-BD64-A5AF1E2AFAC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16358D0D-F18F-45FB-BD64-A5AF1E2AFAC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16358D0D-F18F-45FB-BD64-A5AF1E2AFAC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33325C11-E209-47DB-98FA-16F6390A656B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33325C11-E209-47DB-98FA-16F6390A656B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33325C11-E209-47DB-98FA-16F6390A656B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33325C11-E209-47DB-98FA-16F6390A656B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
